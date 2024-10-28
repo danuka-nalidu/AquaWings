@@ -1,0 +1,91 @@
+# Kotlin and Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-app.setting
+
+# Local configuration files
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/captures
+
+# Android Studio and IntelliJ IDEA files
+.idea/caches
+.idea/inspectionProfiles
+.idea/modules
+.idea/
+*.iml
+
+# NDK
+.externalNativeBuild/
+.cxx/
+obj/
+
+# Emulators and device-specific files
+*.hprof
+*.keystore
+*.apk
+*.ap_
+
+# Files for debugging
+*.log
+*.stacktrace
+*.out
+
+# Gradle caches
+.gradle/
+build/
+.gradle/caches/
+.gradle/gradle.properties
+.gradle/gradleWrapper/
+!gradle-wrapper.jar
+
+# KTS and IntelliJ workspace-related files
+.idea/kotlinc.xml
+.idea/shelf/
+.idea/taskDescriptions.xml
+.idea/tasks/
+.idea/codeStyles
+.idea/vcs.xml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE specific files
+*.ipr
+*.iws
+.idea/
+*.iml
+out/
+
+# Generated files
+gen/
+bin/
+
+# Configuration files
+local.properties
+*.log
+*.lock
+*.bak
+*.swp
+
+# Other files
+.cxx/
+.externalNativeBuild/
+captured_files/
+node_modules/
+tmp/
+**/*.bak
+__pycache__/
